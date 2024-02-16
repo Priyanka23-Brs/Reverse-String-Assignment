@@ -1,29 +1,21 @@
-body {
+ body {
     text-align: center;
     margin: 100px;
     background-size: cover;
 }
 h1 {
-    color:rgb(189, 77, 8);
+    color: Red;
 }
 label {
     color:black;
     font-size: 30px;
     
 }
-.container {
-    width: 50%;
-    margin: 0 auto; /* Center the container horizontally */
-    padding: 20px;
-      background-size: cover;
-    color:#ccc;
-    font-weight: 1500;
-    font-size: 35px;
-}
+ 
 button {
     width: 15%;
-    color:rgb(16, 14, 14);
-    background-color:hotpink;
+    color: white;
+    background-color:gray;
     font-size: 20px;
 }
 
